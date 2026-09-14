@@ -1,0 +1,9 @@
+[project]
+name = "handball_app"
+version = "1.0.0"
+dependencies = [
+    "flet"
+]
+
+[tool.flet.app]
+path = "." # Carpeta donde está tu código principal
