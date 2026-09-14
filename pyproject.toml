@@ -1,9 +1,15 @@
 [project]
-name = "handball_app"
+name = "handball_stats"
 version = "1.0.0"
+requires-python = ">=3.13,<3.14"
+
 dependencies = [
-    "flet"
+    "flet==0.86.5"
 ]
 
 [tool.flet.app]
-path = "." # Carpeta donde está tu código principal.
+path = "."
+module = "main.py"
+
+[tool.flet.android]
+min_sdk_version = 24
