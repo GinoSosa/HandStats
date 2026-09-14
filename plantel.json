@@ -1,0 +1,105 @@
+[
+    {
+        "nombre": "Nicolas Abregu",
+        "numero": "23"
+    },
+    {
+        "nombre": "Ariel Caceres",
+        "numero": "5"
+    },
+    {
+        "nombre": "Martin Castro",
+        "numero": "9"
+    },
+    {
+        "nombre": "Luciano Gomez",
+        "numero": "19"
+    },
+    {
+        "nombre": "Marco Iman",
+        "numero": "20"
+    },
+    {
+        "nombre": "Joel Maceda",
+        "numero": "7"
+    },
+    {
+        "nombre": "Exequiel Martino",
+        "numero": "11"
+    },
+    {
+        "nombre": "Luciano Pascual",
+        "numero": "8"
+    },
+    {
+        "nombre": "Franco Reyes",
+        "numero": "30"
+    },
+    {
+        "nombre": "Gino Sosa",
+        "numero": "13"
+    },
+    {
+        "nombre": "Agustin Torres",
+        "numero": "17"
+    },
+    {
+        "nombre": "Jordi Sosa",
+        "numero": "77"
+    },
+    {
+        "nombre": "Mariano Policaro",
+        "numero": "12",
+        "es_arquero": true
+    },
+    {
+        "nombre": "Nicolas Ceballos",
+        "numero": "1",
+        "es_arquero": true
+    },
+    {
+        "nombre": "Santiago Cansino",
+        "numero": "21",
+        "es_arquero": false
+    },
+    {
+        "nombre": "Santino Carreras",
+        "numero": "10",
+        "es_arquero": false
+    },
+    {
+        "nombre": "Geronimo Barrientos",
+        "numero": "24",
+        "es_arquero": false
+    },
+    {
+        "nombre": "Tiziano Bosetti",
+        "numero": "69",
+        "es_arquero": false
+    },
+    {
+        "nombre": "Manuel Cabanillas",
+        "numero": "2",
+        "es_arquero": false
+    },
+    {
+        "nombre": "Santino Marconetti",
+        "numero": "70",
+        "es_arquero": false
+    },
+    {
+        "nombre": "Maximo Zapata",
+        "numero": "100",
+        "es_arquero": true
+    },
+    {
+        "nombre": "Gabriel Infante",
+        "numero": "170",
+        "es_arquero": true
+    },
+    {
+        "nombre": "Evaristo Alvaretto",
+        "numero": "32",
+        "es_arquero": false
+    }
+]

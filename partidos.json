@@ -1,0 +1,101 @@
+[
+    {
+        "id": "20260913232052",
+        "fecha": "13/09/2026",
+        "categoria": "Primera",
+        "rival": "Nores",
+        "goles_nuestros": 0,
+        "goles_rival": 0,
+        "minutos_jugados": {
+            "Nicolas Ceballos (#1)": 4,
+            "Nicolas Abregu (#23)": 4,
+            "Ariel Caceres (#5)": 4,
+            "Luciano Gomez (#19)": 4,
+            "Luciano Pascual (#8)": 4,
+            "Gino Sosa (#13)": 4,
+            "Agustin Torres (#17)": 4
+        }
+    },
+    {
+        "id": "20260913232142",
+        "fecha": "13/09/2026",
+        "categoria": "Primera",
+        "rival": "Nores",
+        "goles_nuestros": 8,
+        "goles_rival": 1,
+        "minutos_jugados": {
+            "Nicolas Abregu (#23)": 238,
+            "Ariel Caceres (#5)": 211,
+            "Luciano Gomez (#19)": 240,
+            "Nicolas Ceballos (#1)": 158,
+            "Agustin Torres (#17)": 114,
+            "Gino Sosa (#13)": 211,
+            "Luciano Pascual (#8)": 240,
+            "Joel Maceda (#7)": 45,
+            "Marco Iman (#20)": 110,
+            "Mariano Policaro (#12)": 80
+        }
+    },
+    {
+        "id": "20260913233620",
+        "fecha": "13/09/2026",
+        "categoria": "Primera",
+        "rival": "Rio Primero",
+        "goles_nuestros": 8,
+        "goles_rival": 1,
+        "minutos_jugados": {
+            "Nicolas Abregu (#23)": 139,
+            "Ariel Caceres (#5)": 240,
+            "Martin Castro (#9)": 169,
+            "Joel Maceda (#7)": 212,
+            "Luciano Gomez (#19)": 240,
+            "Marco Iman (#20)": 143,
+            "Nicolas Ceballos (#1)": 177,
+            "Gino Sosa (#13)": 124,
+            "Luciano Pascual (#8)": 55,
+            "Mariano Policaro (#12)": 61,
+            "Agustin Torres (#17)": 97
+        }
+    },
+    {
+        "id": "20260913234646",
+        "fecha": "13/09/2026",
+        "categoria": "Cadete",
+        "rival": "Villa del Rosario",
+        "goles_nuestros": 11,
+        "goles_rival": 2,
+        "minutos_jugados": {
+            "Maximo Zapata (#100)": 116,
+            "Santino Marconetti (#70)": 248,
+            "Gino Sosa (#13)": 220,
+            "Manuel Cabanillas (#2)": 198,
+            "Jordi Sosa (#77)": 171,
+            "Santino Carreras (#10)": 247,
+            "Santiago Cansino (#21)": 207,
+            "Gabriel Infante (#170)": 129,
+            "Tiziano Bosetti (#69)": 121,
+            "Geronimo Barrientos (#24)": 35
+        }
+    },
+    {
+        "id": "20260914000408",
+        "fecha": "14/09/2026",
+        "categoria": "Cadete",
+        "rival": "nosexd",
+        "goles_nuestros": 0,
+        "goles_rival": 0,
+        "minutos_jugados": {
+            "Gino Sosa (#13)": 22,
+            "Jordi Sosa (#77)": 22,
+            "Santiago Cansino (#21)": 17,
+            "Santino Carreras (#10)": 17,
+            "Geronimo Barrientos (#24)": 18,
+            "Tiziano Bosetti (#69)": 20,
+            "Maximo Zapata (#100)": 20,
+            "Gabriel Infante (#170)": 6,
+            "Santino Marconetti (#70)": 6,
+            "Evaristo Alvaretto (#32)": 6,
+            "Manuel Cabanillas (#2)": 6
+        }
+    }
+]

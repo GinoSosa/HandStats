@@ -1,0 +1,802 @@
+[
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "00:21",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Tiro: Gol - 6m (Contra) - Extremo",
+        "timestamp": "2026-09-13 23:22:33"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "00:33",
+        "jugador": "Luciano Pascual (#8)",
+        "accion": "Tiro: No Gol - Piso línea - 6m (Contra) - Pivote",
+        "timestamp": "2026-09-13 23:22:45"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "00:56",
+        "jugador": "Nicolas Abregu (#23)",
+        "accion": "Tiro: Gol - 6m (Contra) - Extremo",
+        "timestamp": "2026-09-13 23:23:07"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "01:04",
+        "jugador": "Ariel Caceres (#5)",
+        "accion": "Tiro: Gol - 6m (Contra) - Armado",
+        "timestamp": "2026-09-13 23:23:16"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "01:16",
+        "jugador": "Nicolas Ceballos (#1)",
+        "accion": "Tiro Rival: Hecho - 6m - Armado",
+        "timestamp": "2026-09-13 23:23:28"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "01:22",
+        "jugador": "Nicolas Ceballos (#1)",
+        "accion": "Tiro Rival: Atajado - Penal - Pivote",
+        "timestamp": "2026-09-13 23:23:34"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "01:27",
+        "jugador": "Luciano Pascual (#8)",
+        "accion": "Pérdida - Dribbling",
+        "timestamp": "2026-09-13 23:23:39"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "01:32",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Pérdida - Pase",
+        "timestamp": "2026-09-13 23:23:44"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "01:44",
+        "jugador": "Nicolas Abregu (#23)",
+        "accion": "Tiro: Gol - 9m - Armado",
+        "timestamp": "2026-09-13 23:23:56"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "01:53",
+        "jugador": "Agustin Torres (#17)",
+        "accion": "Sanción - Roja",
+        "timestamp": "2026-09-13 23:24:06"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "02:20",
+        "jugador": "Ariel Caceres (#5)",
+        "accion": "Sanción - 2 Minutos",
+        "timestamp": "2026-09-13 23:24:33"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "02:27",
+        "jugador": "Mariano Policaro (#12)",
+        "accion": "Tiro Rival: Atajado - 9m - Armado",
+        "timestamp": "2026-09-13 23:24:40"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "02:36",
+        "jugador": "Nicolas Abregu (#23)",
+        "accion": "Tiro: Gol - 9m - Armado",
+        "timestamp": "2026-09-13 23:24:50"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "02:57",
+        "jugador": "Mariano Policaro (#12)",
+        "accion": "Tiro Rival: Atajado - Penal - Central",
+        "timestamp": "2026-09-13 23:25:11"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "03:05",
+        "jugador": "Luciano Pascual (#8)",
+        "accion": "Tiro: No Gol - Erró - 6m (Contra) - Pivote",
+        "timestamp": "2026-09-13 23:25:18"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "03:13",
+        "jugador": "Nicolas Abregu (#23)",
+        "accion": "Tiro: Gol - 9m - Extremo",
+        "timestamp": "2026-09-13 23:25:27"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "03:21",
+        "jugador": "Nicolas Abregu (#23)",
+        "accion": "Tiro: Gol - 6m (Contra) - Armado",
+        "timestamp": "2026-09-13 23:25:35"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "03:29",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Tiro: Gol - 6m (Contra) - Armado",
+        "timestamp": "2026-09-13 23:25:43"
+    },
+    {
+        "partido_id": "20260913232142",
+        "rival": "Nores",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "03:47",
+        "jugador": "Luciano Gomez (#19)",
+        "accion": "Tiro: No Gol - Erró - 9m - Centro",
+        "timestamp": "2026-09-13 23:26:01"
+    },
+    {
+        "partido_id": "20260913233620",
+        "rival": "Rio Primero",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "01:13",
+        "jugador": "Nicolas Ceballos (#1)",
+        "accion": "Tiro Rival: Hecho - Contra - Central",
+        "timestamp": "2026-09-13 23:37:53"
+    },
+    {
+        "partido_id": "20260913233620",
+        "rival": "Rio Primero",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "01:21",
+        "jugador": "Martin Castro (#9)",
+        "accion": "Sanción - Amarilla",
+        "timestamp": "2026-09-13 23:38:01"
+    },
+    {
+        "partido_id": "20260913233620",
+        "rival": "Rio Primero",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "01:30",
+        "jugador": "Ariel Caceres (#5)",
+        "accion": "Tiro: Gol - 6m (Contra) - Armado",
+        "timestamp": "2026-09-13 23:38:10"
+    },
+    {
+        "partido_id": "20260913233620",
+        "rival": "Rio Primero",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "01:47",
+        "jugador": "Luciano Pascual (#8)",
+        "accion": "Tiro: Gol - 6m (Contra) - Pivote",
+        "timestamp": "2026-09-13 23:38:28"
+    },
+    {
+        "partido_id": "20260913233620",
+        "rival": "Rio Primero",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "01:52",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Tiro: Gol - 9m - Armado",
+        "timestamp": "2026-09-13 23:38:33"
+    },
+    {
+        "partido_id": "20260913233620",
+        "rival": "Rio Primero",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "02:05",
+        "jugador": "Ariel Caceres (#5)",
+        "accion": "Tiro: Gol - 9m - Armado",
+        "timestamp": "2026-09-13 23:38:46"
+    },
+    {
+        "partido_id": "20260913233620",
+        "rival": "Rio Primero",
+        "categoria": "Primera",
+        "periodo": "1° Tiempo",
+        "minuto": "02:17",
+        "jugador": "Luciano Gomez (#19)",
+        "accion": "Tiro: Gol - 9m - Armado",
+        "timestamp": "2026-09-13 23:38:58"
+    },
+    {
+        "partido_id": "20260913233620",
+        "rival": "Rio Primero",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "02:46",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Tiro: No Gol - Erró - 6m (Contra) - Extremo",
+        "timestamp": "2026-09-13 23:39:27"
+    },
+    {
+        "partido_id": "20260913233620",
+        "rival": "Rio Primero",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "02:58",
+        "jugador": "Mariano Policaro (#12)",
+        "accion": "Tiro Rival: Atajado - Penal - Central",
+        "timestamp": "2026-09-13 23:39:39"
+    },
+    {
+        "partido_id": "20260913233620",
+        "rival": "Rio Primero",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "03:04",
+        "jugador": "Martin Castro (#9)",
+        "accion": "Penal - Gol",
+        "timestamp": "2026-09-13 23:39:46"
+    },
+    {
+        "partido_id": "20260913233620",
+        "rival": "Rio Primero",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "03:12",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Tiro: Gol - 6m (Contra) - Extremo",
+        "timestamp": "2026-09-13 23:39:54"
+    },
+    {
+        "partido_id": "20260913233620",
+        "rival": "Rio Primero",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "03:31",
+        "jugador": "Ariel Caceres (#5)",
+        "accion": "Tiro: Gol - 6m (Contra) - Extremo",
+        "timestamp": "2026-09-13 23:40:13"
+    },
+    {
+        "partido_id": "20260913233620",
+        "rival": "Rio Primero",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "03:41",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Sanción - Roja",
+        "timestamp": "2026-09-13 23:40:23"
+    },
+    {
+        "partido_id": "20260913233620",
+        "rival": "Rio Primero",
+        "categoria": "Primera",
+        "periodo": "2° Tiempo",
+        "minuto": "03:59",
+        "jugador": "Nicolas Ceballos (#1)",
+        "accion": "Tiro Rival: Atajado - Penal - Central",
+        "timestamp": "2026-09-13 23:40:41"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:31",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Tiro: Gol - 6m (Contra) - Armado",
+        "timestamp": "2026-09-13 23:48:27"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:54",
+        "jugador": "Jordi Sosa (#77)",
+        "accion": "Tiro: Gol - 6m (Contra) - Extremo",
+        "timestamp": "2026-09-13 23:48:50"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "01:13",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Tiro: Gol - 9m - Centro",
+        "timestamp": "2026-09-13 23:49:10"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "01:38",
+        "jugador": "Santino Carreras (#10)",
+        "accion": "Tiro: Gol - 6m (Contra) - Pivote",
+        "timestamp": "2026-09-13 23:49:35"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "01:50",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Tiro: Gol - 6m (Contra) - Armado",
+        "timestamp": "2026-09-13 23:49:47"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "02:03",
+        "jugador": "Geronimo Barrientos (#24)",
+        "accion": "Tiro: No Gol - Erró - 6m (Contra) - Extremo",
+        "timestamp": "2026-09-13 23:50:00"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "2° Tiempo",
+        "minuto": "02:14",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Tiro: Gol - 6m (Contra) - Armado",
+        "timestamp": "2026-09-13 23:50:54"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "2° Tiempo",
+        "minuto": "02:25",
+        "jugador": "Tiziano Bosetti (#69)",
+        "accion": "Tiro: Gol - 9m - Extremo",
+        "timestamp": "2026-09-13 23:51:06"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "2° Tiempo",
+        "minuto": "02:37",
+        "jugador": "Maximo Zapata (#100)",
+        "accion": "Tiro Rival: Hecho - Contra - Central",
+        "timestamp": "2026-09-13 23:51:18"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "2° Tiempo",
+        "minuto": "02:42",
+        "jugador": "Maximo Zapata (#100)",
+        "accion": "Tiro Rival: Hecho - Contra - Central",
+        "timestamp": "2026-09-13 23:51:23"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "2° Tiempo",
+        "minuto": "02:49",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Sanción - 2 Minutos",
+        "timestamp": "2026-09-13 23:51:31"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "2° Tiempo",
+        "minuto": "03:09",
+        "jugador": "Manuel Cabanillas (#2)",
+        "accion": "Tiro: Gol - 6m (Contra) - Armado",
+        "timestamp": "2026-09-13 23:51:51"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "2° Tiempo",
+        "minuto": "03:20",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Tiro: Gol - 9m - Centro",
+        "timestamp": "2026-09-13 23:52:01"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "2° Tiempo",
+        "minuto": "03:26",
+        "jugador": "Santiago Cansino (#21)",
+        "accion": "Tiro: Gol - 6m (Contra) - Extremo",
+        "timestamp": "2026-09-13 23:52:08"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "2° Tiempo",
+        "minuto": "03:51",
+        "jugador": "Santino Marconetti (#70)",
+        "accion": "Tiro: Gol - 6m (Contra) - Armado",
+        "timestamp": "2026-09-13 23:52:33"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "2° Tiempo",
+        "minuto": "04:00",
+        "jugador": "Santiago Cansino (#21)",
+        "accion": "Tiro: No Gol - Piso línea - 6m (Contra) - Pivote",
+        "timestamp": "2026-09-13 23:52:42"
+    },
+    {
+        "partido_id": "20260913234646",
+        "rival": "Villa del Rosario",
+        "categoria": "Cadete",
+        "periodo": "2° Tiempo",
+        "minuto": "04:06",
+        "jugador": "Santino Carreras (#10)",
+        "accion": "Sanción - Roja",
+        "timestamp": "2026-09-13 23:52:49"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:00",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Ingresa a cancha",
+        "timestamp": "2026-09-14 00:04:18"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:00",
+        "jugador": "Jordi Sosa (#77)",
+        "accion": "Ingresa a cancha",
+        "timestamp": "2026-09-14 00:04:18"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:00",
+        "jugador": "Santiago Cansino (#21)",
+        "accion": "Ingresa a cancha",
+        "timestamp": "2026-09-14 00:04:18"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:00",
+        "jugador": "Santino Carreras (#10)",
+        "accion": "Ingresa a cancha",
+        "timestamp": "2026-09-14 00:04:18"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:00",
+        "jugador": "Geronimo Barrientos (#24)",
+        "accion": "Ingresa a cancha",
+        "timestamp": "2026-09-14 00:04:18"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:00",
+        "jugador": "Tiziano Bosetti (#69)",
+        "accion": "Ingresa a cancha",
+        "timestamp": "2026-09-14 00:04:18"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:00",
+        "jugador": "Maximo Zapata (#100)",
+        "accion": "Ingresa a cancha",
+        "timestamp": "2026-09-14 00:04:18"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:15",
+        "jugador": "Maximo Zapata (#100)",
+        "accion": "Sale al banco",
+        "timestamp": "2026-09-14 00:04:33"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:16",
+        "jugador": "Gabriel Infante (#170)",
+        "accion": "Ingresa a cancha",
+        "timestamp": "2026-09-14 00:04:34"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:17",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Sale al banco",
+        "timestamp": "2026-09-14 00:04:35"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:17",
+        "jugador": "Jordi Sosa (#77)",
+        "accion": "Sale al banco",
+        "timestamp": "2026-09-14 00:04:35"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:17",
+        "jugador": "Santiago Cansino (#21)",
+        "accion": "Sale al banco",
+        "timestamp": "2026-09-14 00:04:35"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:17",
+        "jugador": "Santino Carreras (#10)",
+        "accion": "Sale al banco",
+        "timestamp": "2026-09-14 00:04:36"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:18",
+        "jugador": "Geronimo Barrientos (#24)",
+        "accion": "Sale al banco",
+        "timestamp": "2026-09-14 00:04:36"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:18",
+        "jugador": "Tiziano Bosetti (#69)",
+        "accion": "Sale al banco",
+        "timestamp": "2026-09-14 00:04:36"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:19",
+        "jugador": "Santino Marconetti (#70)",
+        "accion": "Ingresa a cancha",
+        "timestamp": "2026-09-14 00:04:37"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:19",
+        "jugador": "Evaristo Alvaretto (#32)",
+        "accion": "Ingresa a cancha",
+        "timestamp": "2026-09-14 00:04:37"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:19",
+        "jugador": "Manuel Cabanillas (#2)",
+        "accion": "Ingresa a cancha",
+        "timestamp": "2026-09-14 00:04:38"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:20",
+        "jugador": "Maximo Zapata (#100)",
+        "accion": "Ingresa a cancha",
+        "timestamp": "2026-09-14 00:04:38"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:20",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Ingresa a cancha",
+        "timestamp": "2026-09-14 00:04:38"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:20",
+        "jugador": "Jordi Sosa (#77)",
+        "accion": "Ingresa a cancha",
+        "timestamp": "2026-09-14 00:04:39"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:22",
+        "jugador": "Gabriel Infante (#170)",
+        "accion": "Sale al banco",
+        "timestamp": "2026-09-14 00:04:40"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "1° Tiempo",
+        "minuto": "00:23",
+        "jugador": "Tiziano Bosetti (#69)",
+        "accion": "Ingresa a cancha",
+        "timestamp": "2026-09-14 00:04:42"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "Finalizado",
+        "minuto": "00:25",
+        "jugador": "Santino Marconetti (#70)",
+        "accion": "Sale al banco",
+        "timestamp": "2026-09-14 00:04:43"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "Finalizado",
+        "minuto": "00:25",
+        "jugador": "Evaristo Alvaretto (#32)",
+        "accion": "Sale al banco",
+        "timestamp": "2026-09-14 00:04:43"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "Finalizado",
+        "minuto": "00:25",
+        "jugador": "Manuel Cabanillas (#2)",
+        "accion": "Sale al banco",
+        "timestamp": "2026-09-14 00:04:43"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "Finalizado",
+        "minuto": "00:25",
+        "jugador": "Maximo Zapata (#100)",
+        "accion": "Sale al banco",
+        "timestamp": "2026-09-14 00:04:43"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "Finalizado",
+        "minuto": "00:25",
+        "jugador": "Gino Sosa (#13)",
+        "accion": "Sale al banco",
+        "timestamp": "2026-09-14 00:04:43"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "Finalizado",
+        "minuto": "00:25",
+        "jugador": "Jordi Sosa (#77)",
+        "accion": "Sale al banco",
+        "timestamp": "2026-09-14 00:04:43"
+    },
+    {
+        "partido_id": "20260914000408",
+        "rival": "nosexd",
+        "categoria": "Cadete",
+        "periodo": "Finalizado",
+        "minuto": "00:25",
+        "jugador": "Tiziano Bosetti (#69)",
+        "accion": "Sale al banco",
+        "timestamp": "2026-09-14 00:04:43"
+    }
+]
