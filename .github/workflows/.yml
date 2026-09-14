@@ -12,4 +12,4 @@ jobs:
         uses: flet-dev/flet-build-action@v1
         with:
           target: apk
-          # Si tu archivo principal se llama diferente a main.py, cámbialo aquí o usa un pyproject.toml
+          # Si tu archivo principal se llama diferente a main.py, cámbialo aquí o usa un pyproject.toml.
