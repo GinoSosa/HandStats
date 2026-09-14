@@ -1,0 +1,15 @@
+name: Build Android APK
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  build-apk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build Flet APK
+        uses: flet-dev/flet-build-action@v1
+        with:
+          target: apk
+          # Si tu archivo principal se llama diferente a main.py, cámbialo aquí o usa un pyproject.toml
