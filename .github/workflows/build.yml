@@ -11,6 +11,12 @@ jobs:
       - name: Checkout del código
         uses: actions/checkout@v4
 
+      - name: Configurar Java 17 (Requisito para Android)
+        uses: actions/setup-java@v4
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+
       - name: Configurar Python
         uses: actions/setup-python@v5
         with:
