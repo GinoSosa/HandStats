@@ -6,4 +6,4 @@ dependencies = [
 ]
 
 [tool.flet.app]
-path = "." # Carpeta donde está tu código principal
+path = "." # Carpeta donde está tu código principal.
